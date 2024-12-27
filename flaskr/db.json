@@ -1,0 +1,30 @@
+{
+    "ABC12345": {
+        "coupon_code": "ABC12345",
+        "product_id": 123,
+        "user_id": 1,
+        "expiry_date": "2024-12-26T15:00:00",
+        "valid": false
+    },
+    "XYZ98765": {
+        "coupon_code": "XYZ98765",
+        "product_id": 456,
+        "user_id": 2,
+        "expiry_date": "2024-12-26T16:00:00",
+        "valid": true
+    },
+    "QTBO06VG": {
+        "coupon_code": "QTBO06VG",
+        "product_id": 123,
+        "user_id": 1,
+        "expiry_date": "2024-12-27T10:35:30.193324",
+        "valid": true
+    },
+    "UXT0LCPU": {
+        "coupon_code": "UXT0LCPU",
+        "product_id": 965,
+        "user_id": 5,
+        "expiry_date": "2024-12-27T10:36:08.712668",
+        "valid": true
+    }
+}
