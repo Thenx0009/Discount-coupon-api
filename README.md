@@ -53,16 +53,16 @@ This project provides a simple REST API for generating and validating discount c
 ```
 discount-coupon-api/
 │
-├── flaskr/                # Flask application folder
-│   ├── __init__.py        # Initialize the Flask app and routes
-│   ├── models.py          # Coupon generation and validation logic
-│   ├── routes.py          # Routes for generating and validating coupons
-│   └── db.json            # Mock database (stores coupon data)
+├── flaskr/                
+│   ├── __init__.py        
+│   ├── models.py          
+│   ├── routes.py          
+│   └── db.json            
 │
-├── .env                   # Environment variables
-├── requirements.txt       # List of dependencies
-├── run.py                 # Script to run the Flask app
-└── README.md              # Project documentation
+├── .env                   
+├── requirements.txt       
+├── run.py                 
+└── README.md              
 ```
 
 ## Configuration
