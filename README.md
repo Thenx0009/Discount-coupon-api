@@ -19,7 +19,7 @@ This project provides a simple REST API for generating and validating discount c
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Thenx0009/Discount-coupon-api.git
    cd discount-coupon-api
    ```
 
