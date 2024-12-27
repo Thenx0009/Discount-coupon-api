@@ -26,5 +26,12 @@
         "user_id": 5,
         "expiry_date": "2024-12-27T10:36:08.712668",
         "valid": true
+    },
+    "BIQY9CRT": {
+        "coupon_code": "BIQY9CRT",
+        "product_id": 201,
+        "user_id": 10,
+        "expiry_date": "2024-12-27T11:02:48.837365",
+        "valid": true
     }
 }
